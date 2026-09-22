@@ -1,7 +1,7 @@
 import time
 import requests
 
-URL = "https://upload.wikimedia.org/wikipedia/commons/3/3f/Fronalpstock_big.jpg"  # ~14 МБ
+URL = "https://ya.ru/images/search?from=tabbar&img_url=https%3A%2F%2Fi.ytimg.com%2Fvi%2FGT-z_YNLkao%2Fmaxresdefault.jpg%3Fsqp%3D-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGGogaihqMA8%3D%26amp%3Brs%3DAOn4CLCNDUaKBon3VQH5YFN3krhikoWoTQ&lr=10735&pos=0&rpt=simage&text=гига%20чад"  # ~14 МБ
 REQUESTS_COUNT = 10
 
 
